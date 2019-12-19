@@ -25,10 +25,10 @@ There is a `third` method called `createsNestedArray` which creates random neste
 
 ## The tests covering
 The test cover the following scenarios:
-- [✅] pass theorem test using lazyFlatArray(); 
-✅ pass theorem test using fastFlatArray(); 
-✅ lazyFlatArray() pass over 1000 tests; 
-✅ fasterFlatArray() pass over 1000 tests;
-✅ fasterFlatArray() is faster than lazyFlatArray() method;
+- [x] pass theorem test using lazyFlatArray(); 
+- [x] pass theorem test using fastFlatArray(); 
+- [x] lazyFlatArray() pass over 1000 tests; 
+- [x] fasterFlatArray() pass over 1000 tests;
+- [x] fasterFlatArray() is faster than lazyFlatArray() method;
 
 
